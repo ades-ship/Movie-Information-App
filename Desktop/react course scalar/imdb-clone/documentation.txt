@@ -1,0 +1,32 @@
+// go the project flow
+// 1. create a new folder for your project eg imbd-clone
+// 2. navigate to that directory using cd imdb-clone
+// 3. initialise npm init so to ge tthe package.json file
+// 4. install the vite-project using (npm create vite@latest) or check the vite react on the google
+// 5. go to cd vite-project directory
+// 6. run npm install to get required modules for reactjs and nodejs or expressjs
+// 7. run the app using npm run dev command
+// 8. open the local host link
+
+/* now add the tailwwind css  to the app */
+1. run these two command in cd vite-project :  npm install -D tailwindcss postcss autoprefixer
+                                                 npx tailwindcss init -p
+
+2. congrats you have added the tailwindcss to your reactjs project 
+
+
+
+
+
+
+
+
+
+
+
+// remaining task 
+apply the log of the app,
+movie poster name is also not displayed in MovieCard component
+on doing the pagination, if i click on next page again and again only its populate two call api data (dont know why this is happens in Movie component) due err connection timeout
+//
+
